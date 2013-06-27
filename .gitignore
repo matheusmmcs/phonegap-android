@@ -1,0 +1,11 @@
+# For Java #
+*.class
+
+# Package Files ##
+*.jar
+*.war
+*.ear
+
+# For Eclipse #
+.project
+.settings
